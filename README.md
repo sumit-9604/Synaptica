@@ -508,5 +508,3 @@ This project is licensed under the MIT License — see the `LICENSE` file for de
 ---
 
 **Synaptica** — turning everyday coding behavior into actionable insight for developer wellbeing.
-#   S y n a p t i c a  
- 
