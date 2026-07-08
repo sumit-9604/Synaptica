@@ -501,10 +501,5 @@ Please open an issue first for major changes to discuss what you'd like to chang
 
 ---
 
-## License
-
-This project is licensed under the MIT License — see the `LICENSE` file for details.
-
----
 
 **Synaptica** — turning everyday coding behavior into actionable insight for developer wellbeing.
